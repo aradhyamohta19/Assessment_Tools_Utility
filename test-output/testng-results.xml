@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-02T05:29:42Z" name="Default suite" finished-at="2022-06-02T05:29:55Z" duration-ms="12582">
+    <groups>
+    </groups>
+    <test started-at="2022-06-02T05:29:42Z" name="Default test" finished-at="2022-06-02T05:29:55Z" duration-ms="12582">
+      <class name="AssessmentProject.ProjectTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:AssessmentProject.ProjectTest@1e16c0aa]" started-at="2022-06-02T05:29:42Z" name="beforeTest" finished-at="2022-06-02T05:29:46Z" duration-ms="3433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="f()[pri:1, instance:AssessmentProject.ProjectTest@1e16c0aa]" started-at="2022-06-02T05:29:46Z" name="f" finished-at="2022-06-02T05:29:46Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="f1()[pri:2, instance:AssessmentProject.ProjectTest@1e16c0aa]" started-at="2022-06-02T05:29:46Z" name="f1" finished-at="2022-06-02T05:29:47Z" duration-ms="1198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method signature="find_tools_utility()[pri:3, instance:AssessmentProject.ProjectTest@1e16c0aa]" started-at="2022-06-02T05:29:47Z" name="find_tools_utility" finished-at="2022-06-02T05:29:48Z" duration-ms="662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- find_tools_utility -->
+        <test-method signature="add_tool()[pri:4, instance:AssessmentProject.ProjectTest@1e16c0aa]" started-at="2022-06-02T05:29:48Z" name="add_tool" finished-at="2022-06-02T05:29:51Z" duration-ms="3486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_tool -->
+        <test-method signature="search_tool()[pri:5, instance:AssessmentProject.ProjectTest@1e16c0aa]" started-at="2022-06-02T05:29:51Z" name="search_tool" finished-at="2022-06-02T05:29:55Z" duration-ms="3631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_tool -->
+        <test-method is-config="true" signature="Logout()[pri:0, instance:AssessmentProject.ProjectTest@1e16c0aa]" started-at="2022-06-02T05:29:55Z" name="Logout" finished-at="2022-06-02T05:29:55Z" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+      </class> <!-- AssessmentProject.ProjectTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
